@@ -4,7 +4,7 @@
 
 <p> FrontEnd developer from Azerbaijan </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyanem&label=Profile%1views&color=0e75b6&style=flat" alt="elyanem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyanem&label=Profile%20views&color=0e75b6&style=flat" alt="elyanem" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p>

@@ -10,6 +10,9 @@
 <p>
     <a href="https://www.linkedin.com/in/elya-mehiyeva-4639a0252/" target="_blank">Linkedin</a> 
 </p>
+<p>
+    <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="elyanem" width="200" height="200" align="right">
+</p>
 <hr/>
 
 - 🌱 I’m currently learning **ReactJs**

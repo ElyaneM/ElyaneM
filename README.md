@@ -4,11 +4,11 @@
 
 <p> FrontEnd developer from Azerbaijan </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyanem&label=Profile%20views&color=0e75b6&style=flat" alt="elyanem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyanem&label=Profile%1views&color=0e75b6&style=flat" alt="elyanem" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/elya-mehiyeva-4639a0252/" target="blank">Linkedin</a> 
+    <a href="https://www.linkedin.com/in/elya-mehiyeva-4639a0252/" target="_blank">Linkedin</a> 
 </p>
 <p>
    <img src="https://raw.githubusercontent.com/ElyaneM/ElyaneM/main/envelope.png" width="16" height="16"> Email : elyamehiyeva@gmail.com

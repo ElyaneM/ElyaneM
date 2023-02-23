@@ -2,7 +2,7 @@
 
 ![logo](https://raw.githubusercontent.com/ElyaneM/ElyaneM/main/banner.png)
 
-<p> FrontEnd developer from Azerbaijan </p>
+<p> Frontend developer from Azerbaijan </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyanem&label=Profile%20views&color=0e75b6&style=flat" alt="elyanem" /> </p>
 

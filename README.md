@@ -10,16 +10,13 @@
 <p>
     <a href="https://www.linkedin.com/in/elya-mehiyeva-4639a0252/" target="_blank">Linkedin</a> 
 </p>
-<p>
-   <img src="https://raw.githubusercontent.com/ElyaneM/ElyaneM/main/envelope.png" width="16" height="16"> Email : elyamehiyeva@gmail.com
-</p>
 <hr/>
 
 - 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **Html5, Css3, Javascript, ReactJs**
 
-- 📫 How to reach me **elyamehiyeva@gmail.com**
+- 📫 Email **elyamehiyeva@gmail.com**
 
 
 
